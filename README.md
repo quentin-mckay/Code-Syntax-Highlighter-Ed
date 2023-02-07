@@ -3,9 +3,9 @@
 
 ## Installation
 
-1. Download and unzip
+1. Download repository and unzip
 
-1. Follow these 3 steps to load the unzipped folder.
+1. Follow these 3 steps to load the unzipped extension folder
 
 ![asdfds](./images/loading_unpacked_extension.jpg)
 
