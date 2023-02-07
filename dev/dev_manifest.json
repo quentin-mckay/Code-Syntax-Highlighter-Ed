@@ -14,16 +14,23 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://edstem.org/*"],
+            "matches": ["<all_urls>"],
             "css": ["atom-one-dark.min.css"],
             "js": ["highlight.min.js", "content.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["highlight.min.js"],
+            "matches": ["https://edstem.org/*"]
         }
     ],
     "permissions": ["activeTab"],
     "commands": {
         "_execute_action": {
             "suggested_key": {
-                "default": "Alt+H"
+                "default": "Ctrl+B",
+                "mac": "Command+B"
             }
         }
     }

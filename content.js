@@ -1,10 +1,7 @@
-console.log("Content Script initialized.")
-
 chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
     if (msg.text === 'highlight') {
 
-        console.log("Message received!")
-
+		// Get rid of warning
 		hljs.configure({
 			ignoreUnescapedHTML: true
 		});
