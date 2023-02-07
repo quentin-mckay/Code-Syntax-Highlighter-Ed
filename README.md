@@ -20,3 +20,6 @@ Either use `Alt+H` or click the extension icon in the Chrome Toolbar.
 
 In order for the icon to appear in the Chrome Toolbar, it first needs to be "pinned" by opening the extensions menu (click the puzzle piece icon) and clicking the pin next to **Code Syntax Highlighter for Ed**
 
+## Dependencies
+
+[Highlight.js](https://highlightjs.org/) 
