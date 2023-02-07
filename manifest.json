@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Code Syntax Highlighter for Ed",
-    "version": "0.0.0.1",
+    "version": "0.0.0.2",
     "description": "Apply syntax highlighting to code blocks in the Ed learning platform",
     "icons": {
         "128": "images/128-transparent.png"

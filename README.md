@@ -1,17 +1,22 @@
 # Syntax Highlighter for Ed
 
+![screenshot](./images/screenshot.png)
 
 ## Installation
 
-1. Download repository and unzip
+- Directly from the [Chrome Web Store page](https://chrome.google.com/webstore/detail/code-syntax-highlighter-f/cmbplgilmheonekccfhdoljbaenlkhff)
 
-1. Follow these 3 steps to load the unzipped extension folder
+- or install locally
 
-![asdfds](./images/loading_unpacked_extension.jpg)
+	1. Download repository and unzip
 
-# Usage
+	1. Follow these 3 steps to load the unzipped extension folder
+
+	![load unpacked extension](./images/loading_unpacked_extension.jpg)
+
+## Usage
 
 Either use `Alt+H` or click the extension icon in the Chrome Toolbar.
 
-In order for the icon to appear in the Chrome Toolbar, it first needs to be "pinned" by opening the extensions menu (the puzzle piece) and clicking the pin next to **Code Syntax Highlighter for Ed**
+In order for the icon to appear in the Chrome Toolbar, it first needs to be "pinned" by opening the extensions menu (click the puzzle piece icon) and clicking the pin next to **Code Syntax Highlighter for Ed**
 
